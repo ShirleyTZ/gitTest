@@ -1,4 +1,5 @@
-### Readme
-All the good story begin with this:
-Long long ago, there's a kid called HiFi.
-She decide to bet tomorrow with today and become a programmer.
+# Git团队协作练习
+### 自我介绍
+######  我叫HiFi
+### 协作介绍
+######  很久很久以前，村里有个姑娘叫小芳。
